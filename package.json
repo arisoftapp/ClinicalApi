@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "dateformat": "^3.0.3",
     "dbc": "^3.0.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
